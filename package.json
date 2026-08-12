@@ -14,7 +14,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "express": "~4.15.5",
-    "multer": "~1.4.2"
+    "express": "~4.14.0",
+    "multer": "~2.0.0"
   }
 }
